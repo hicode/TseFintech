@@ -4,4 +4,4 @@
 
 |latex|display|
 |---|---|
-|asd|---|
+|\alpha|$\alpha$|
