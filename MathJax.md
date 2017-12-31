@@ -27,3 +27,14 @@
 |\psi|ψ|\Psi|Ψ|||
 |\omega|ω|\Omega|Ω|||
 
+## 逻辑运算符
+
+|latex|display|
+|---|---|
+|\because|∵|
+|\therefore|∴|
+|\forall|∀|
+|\exists|∃|
+|\not=|≠|
+|\not>|≯|
+|\not\subset|⊄|
