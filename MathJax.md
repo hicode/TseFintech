@@ -282,6 +282,9 @@ $$\begin{matrix}
 |{vmatrix}|单竖线边框|
 |{Vmatrix}|双竖线边框|
 
+![](http://latex.codecogs.com/gif.latex?$$\\begin{bmatrix}1&0&0\\\\0&1&0\\\\0&0&1\\\\\\end{bmatrix}$$)
+
+
 ## 省略元素
 
 |latex|desc|
