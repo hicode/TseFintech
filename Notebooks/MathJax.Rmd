@@ -1,8 +1,15 @@
+---
+title: "MathJax LaTeX语法"
+author: "解海"
+date: "Dec 31, 2017"
+output: html_document
+mathjax: "//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+---
+
+
 # MathJax LaTeX语法
 
 ## 希腊字母和希伯来字母
-
-
 
 |latex|display|latex|display|latex|display|
 |---|---|---|---|---|---|
