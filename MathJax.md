@@ -1,4 +1,4 @@
-# MathJax
+# MathJax LaTeX语法
 
 ## 希腊字母和希伯来字母
 
