@@ -9,7 +9,9 @@ mathjax: "//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorM
 
 # MathJax LaTeX语法
 
-## 希腊字母和希伯来字母
+[TOC]
+
+## 希腊字母
 
 | latex     | display     | latex       | display       | latex     | display     |
 | --------- | ----------- | ----------- | ------------- | --------- | ----------- |
