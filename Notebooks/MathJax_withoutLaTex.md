@@ -350,6 +350,34 @@ $$
 
 ![](http://latex.codecogs.com/gif.latex?$$\\begin{cases}a_1x+b_1y+c_1z=d_1\\\\a_2x+b_2y+c_2z=d_2\\\\a_3x+b_3y+c_3z=d_3\\\\\\end{cases}$$)
 
+## 分段函数
+
+右侧文本
+
+```
+$$
+f(n) =
+\begin{cases}
+n/2,  & \text{if $n$ is even} \\
+3n+1, & \text{if $n$ is odd}
+\end{cases}
+$$
+```
+
+显示：
+
+$$
+f(n) =
+\begin{cases}
+n/2,  & \text{if $n$ is even} \\
+3n+1, & \text{if $n$ is odd}
+\end{cases}
+$$
+
+## 颜色
+
+略
+
 ## 其他
 
-![](http://latex.codecogs.com/gif.latex?\\overbrace{(n-2)+\\overbrace{(n-1)+n+(n+1)}+(n+2)})
+![img](../static/hOOxd.png)

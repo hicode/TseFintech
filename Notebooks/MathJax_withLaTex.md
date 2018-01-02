@@ -1,15 +1,15 @@
 ---
-title: "MathJax LaTeXÓï·¨"
-author: "½âº£"
+title: "MathJax LaTeXè¯­æ³•"
+author: "è§£æµ·"
 date: "Dec 31, 2017"
 output: html_document
 mathjax: "//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
 ---
 
 
-# MathJax LaTeXÓï·¨
+# MathJax LaTeXè¯­æ³•
 
-## Ï£À°×ÖÄ¸ºÍÏ£²®À´×ÖÄ¸
+## å¸Œè…Šå­—æ¯å’Œå¸Œä¼¯æ¥å­—æ¯
 
 | latex     | display     | latex       | display       | latex     | display     |
 | --------- | ----------- | ----------- | ------------- | --------- | ----------- |
@@ -36,7 +36,7 @@ mathjax: "//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorM
 | \psi      | $\psi$      | \Psi        | $\Psi$        |           |             |
 | \omega    | $\omega$    | \Omega      | $\Omega$      |           |             |
 
-## Âß¼­ÔËËã·û
+## é€»è¾‘è¿ç®—ç¬¦
 
 | latex       | display       |
 | ----------- | ------------- |
@@ -48,7 +48,7 @@ mathjax: "//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorM
 | \not>       | $\not>$       |
 | \not\subset | $\not\subset$ |
 
-## ¼¯ºÏÔËËã·û
+## é›†åˆè¿ç®—ç¬¦
 
 | latex     | display     |
 | --------- | ----------- |
@@ -67,9 +67,9 @@ mathjax: "//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorM
 | \bigsqcup | $\bigsqcup$ |
 
 
-## ¼ıÍ··ûºÅ
+## ç®­å¤´ç¬¦å·
 
-### ³£ÓÃ¼ıÍ··ûºÅ
+### å¸¸ç”¨ç®­å¤´ç¬¦å·
 
 | latex               | display               |
 | ------------------- | --------------------- |
@@ -92,7 +92,7 @@ mathjax: "//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorM
 | \longleftrightarrow | $\longleftrightarrow$ |
 | \Longleftrightarrow | $\Longleftrightarrow$ |
 
-### ÌØÊâ¼ıÍ··ûºÅ
+### ç‰¹æ®Šç®­å¤´ç¬¦å·
 
 | latex                | display                |
 | -------------------- | ---------------------- |
@@ -149,7 +149,7 @@ mathjax: "//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorM
 | \downharpoonright    | $\downharpoonright$    |
 | \rightsquigarrow     | $\rightsquigarrow$     |
 
-## ¹ØÏµÔËËã·û
+## å…³ç³»è¿ç®—ç¬¦
 
 | latex      | display      |
 | ---------- | ------------ |
@@ -167,7 +167,7 @@ mathjax: "//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorM
 | \bigotimes | $\bigotimes$ |
 | \bigoplus  | $\bigoplus$  |
 
-## ÆäËûÔËËã·û
+## å…¶ä»–è¿ç®—ç¬¦
 
 | latex   | display   |
 | ------- | --------- |
@@ -178,16 +178,16 @@ mathjax: "//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorM
 | \prod   | $\prod$   |
 | \coprod | $\coprod$ |
 
-## ×ÖÄ¸ĞŞÊÎ
+## å­—æ¯ä¿®é¥°
 
-### ÉÏÏÂ±ê
+### ä¸Šä¸‹æ ‡
 
 | latex | display |
 | ----- | ------- |
 | x^2   | $x^2$   |
 | x_i   | $x_i$   |
 
-### Ê¸Á¿
+### çŸ¢é‡
 
 | latex               | display               |
 | ------------------- | --------------------- |
@@ -195,16 +195,16 @@ mathjax: "//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorM
 | \overrightarrow{xy} | $\overrightarrow{xy}$ |
 
 
-## ·Ö×é
+## åˆ†ç»„
 
-Ê¹ÓÃ´óÀ¨ºÅ {} ½«¾ßÓĞÏàÍ¬µÈ¼¶µÄÄÚÈİÀ©ÈëÆäÖĞ£¬³É×é´¦Àí
+ä½¿ç”¨å¤§æ‹¬å· {} å°†å…·æœ‰ç›¸åŒç­‰çº§çš„å†…å®¹æ‰©å…¥å…¶ä¸­ï¼Œæˆç»„å¤„ç†
 
 | latex             | display             |
 | ----------------- | ------------------- |
 | 10^{x+1}          | $10^{x+1}$          |
 | \frac{x}{N_i+x^2} | $\frac{x}{N_i+x^2}$ |
 
-## À¨ºÅ
+## æ‹¬å·
 
 | latex                    | display                    |
 | ------------------------ | -------------------------- |
@@ -214,32 +214,32 @@ mathjax: "//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorM
 | \left(\frac{x}{y}\right) | $\left(\frac{x}{y}\right)$ |
 
 
-## ÇóºÍ¡¢¼«ÏŞÓë»ı·Ö
+## æ±‚å’Œã€æé™ä¸ç§¯åˆ†
 
 
 | Func | latex               | display               |
 | ---- | ------------------- | --------------------- |
-| ÇóºÍ   | \sum_{i=1}^n{a_i}   | $\sum_{i=1}^n{a_i}$   |
-| ¼«ÏŞ   | \lim_{x\to 0}       | $\lim_{x \to 0}$      |
-| »ı·Ö   | \int_0^\infty{fxdx} | $\int_0^\infty{fxdx}$ |
+| æ±‚å’Œ   | \sum_{i=1}^n{a_i}   | $\sum_{i=1}^n{a_i}$   |
+| æé™   | \lim_{x\to 0}       | $\lim_{x \to 0}$      |
+| ç§¯åˆ†   | \int_0^\infty{fxdx} | $\int_0^\infty{fxdx}$ |
 
-## ·ÖÊ½Óë¸ùÊ½
+## åˆ†å¼ä¸æ ¹å¼
 
 
 | Func | latex         | display         |
 | ---- | ------------- | --------------- |
-| ·ÖÊ½   | \frac{1}{N+1} | $\frac{1}{N+1}$ |
-| ¸ùÊ½   | \sqrt[x]{y}   | $\sqrt[x]{y}$   |
+| åˆ†å¼   | \frac{1}{N+1} | $\frac{1}{N+1}$ |
+| æ ¹å¼   | \sqrt[x]{y}   | $\sqrt[x]{y}$   |
 
-## ÌØÊâº¯Êı
+## ç‰¹æ®Šå‡½æ•°
 
-Ê¹ÓÃ **\º¯ÊıÃû** À´ÊµÏÖÌØÊâº¯Êı
+ä½¿ç”¨ **\å‡½æ•°å** æ¥å®ç°ç‰¹æ®Šå‡½æ•°
 
 | latex                    | display                    |
 | ------------------------ | -------------------------- |
-| \sin x£¬\ln x£¬\max(A,B,C) | $\sin x,\ln x,\max(A,B,C)$ |
+| \sin xï¼Œ\ln xï¼Œ\max(A,B,C) | $\sin x,\ln x,\max(A,B,C)$ |
 
-## ÌØÊâ·ûºÅ
+## ç‰¹æ®Šç¬¦å·
 
 | latex       | display       |
 | ----------- | ------------- |
@@ -258,11 +258,11 @@ mathjax: "//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorM
 | \nabla      | $\nabla$      |
 | \partial    | $\partial$    |
 
-## ¾ØÕó
+## çŸ©é˜µ
 
-ÆğÊ¼±ê¼Ç ``\begin{matrix}`` £¬½áÊø±ê¼Ç ``\end{matrix}``
+èµ·å§‹æ ‡è®° ``\begin{matrix}`` ï¼Œç»“æŸæ ‡è®° ``\end{matrix}``
 
-Ã¿Ò»ĞĞÄ©Î²±ê¼Ç``\\``£¬ĞĞ¼äÔªËØÖ®¼äÒÔ``&``·Ö¸ô
+æ¯ä¸€è¡Œæœ«å°¾æ ‡è®°``\\``ï¼Œè¡Œé—´å…ƒç´ ä¹‹é—´ä»¥``&``åˆ†éš”
 
 ```
 $$\begin{matrix}
@@ -272,33 +272,37 @@ $$\begin{matrix}
 \end{matrix}$$
 ```
 
-ÏÔÊ¾£º
+æ˜¾ç¤ºï¼š
 
-$$\begin{matrix}1&0&0\\0&1&0\\0&0&1\\\end{matrix}$$
+$$
+\begin{matrix}1&0&0\\0&1&0\\0&0&1\\\end{matrix}
+$$
 
 
-### ¾ØÕó±ß¿ò
+### çŸ©é˜µè¾¹æ¡†
 
-ÔÚÆğÊ¼¡¢½áÊø±ê¼Ç´¦ÓÃÏÂÁĞ´ÊÌæ»»``{matrix}``
+åœ¨èµ·å§‹ã€ç»“æŸæ ‡è®°å¤„ç”¨ä¸‹åˆ—è¯æ›¿æ¢``{matrix}``
 
 | latex     | desc  |
 | --------- | ----- |
-| {pmatrix} | Ğ¡À¨ºÅ±ß¿ò |
-| {bmatrix} | ÖĞÀ¨ºÅ±ß¿ò |
-| {Bmatrix} | ´óÀ¨ºÅ±ß¿ò |
-| {vmatrix} | µ¥ÊúÏß±ß¿ò |
-| {Vmatrix} | Ë«ÊúÏß±ß¿ò |
+| {pmatrix} | å°æ‹¬å·è¾¹æ¡† |
+| {bmatrix} | ä¸­æ‹¬å·è¾¹æ¡† |
+| {Bmatrix} | å¤§æ‹¬å·è¾¹æ¡† |
+| {vmatrix} | å•ç«–çº¿è¾¹æ¡† |
+| {Vmatrix} | åŒç«–çº¿è¾¹æ¡† |
 
-$$\begin{bmatrix}1&0&0\\0&1&0\\0&0&1\\\end{bmatrix}$$
+$$
+\begin{bmatrix}1&0&0\\0&1&0\\0&0&1\\\end{bmatrix}
+$$
 
 
-## Ê¡ÂÔÔªËØ
+## çœç•¥å…ƒç´ 
 
 | latex  | desc |
 | ------ | ---- |
-| \cdots | ºáÊ¡ÂÔºÅ |
-| \vdots | ÊúÊ¡ÂÔºÅ |
-| \ddots | Ğ±Ê¡ÂÔºÅ |
+| \cdots | æ¨ªçœç•¥å· |
+| \vdots | ç«–çœç•¥å· |
+| \ddots | æ–œçœç•¥å· |
 
 ```
 $$\begin{bmatrix}
@@ -309,34 +313,38 @@ $$\begin{bmatrix}
 \end{bmatrix}$$
 ```
 
-ÏÔÊ¾£º
+æ˜¾ç¤ºï¼š
 
 
-$$\begin{bmatrix}{a_{11}}&{a_{12}}&{\cdots}&{a_{1n}}\\{a_{21}}&{a_{22}}&{\cdots}&{a_{2n}}\\{\vdots}&{\vdots}&{\ddots}&{\vdots}\\{a_{m1}}&{a_{m2}}&{\cdots}&{a_{mn}}\\\end{bmatrix}$$
+$$
+\begin{bmatrix}{a_{11}}&{a_{12}}&{\cdots}&{a_{1n}}\\{a_{21}}&{a_{22}}&{\cdots}&{a_{2n}}\\{\vdots}&{\vdots}&{\ddots}&{\vdots}\\{a_{m1}}&{a_{m2}}&{\cdots}&{a_{mn}}\\\end{bmatrix}
+$$
 
-## ÕóÁĞ
+## é˜µåˆ—
 
-- ĞèÒªarray»·¾³£ºÆğÊ¼¡¢½áÊø´¦ÒÔ``{array}``ÉùÃ÷
-- ¶ÔÆë·½Ê½£ºÔÚ``{array}``ºóÒÔ``{}``ÖğĞĞÍ³Ò»ÉùÃ÷
-- ×ó¶ÔÆë£ºl£»¾ÓÖĞ£ºc£»ÓÒ¶ÔÆë£ºr
-- ÊúÖ±Ïß£ºÔÚÉùÃ÷¶ÔÆë·½Ê½Ê±£¬²åÈë|½¨Á¢ÊúÖ±Ïß
-- ²åÈëË®Æ½Ïß£º\hline
+- éœ€è¦arrayç¯å¢ƒï¼šèµ·å§‹ã€ç»“æŸå¤„ä»¥``{array}``å£°æ˜
+- å¯¹é½æ–¹å¼ï¼šåœ¨``{array}``åä»¥``{}``é€è¡Œç»Ÿä¸€å£°æ˜
+- å·¦å¯¹é½ï¼šlï¼›å±…ä¸­ï¼šcï¼›å³å¯¹é½ï¼šr
+- ç«–ç›´çº¿ï¼šåœ¨å£°æ˜å¯¹é½æ–¹å¼æ—¶ï¼Œæ’å…¥|å»ºç«‹ç«–ç›´çº¿
+- æ’å…¥æ°´å¹³çº¿ï¼š\hline
 
 ```
 $$\begin{array}{c|lll}
-{¡ı}&{a}&{b}&{c}\\
+{â†“}&{a}&{b}&{c}\\
 \hline
 {R_1}&{c}&{b}&{a}\\
 {R_2}&{b}&{c}&{c}\\
 \end{array}$$
 ```
 
-ÏÔÊ¾£º
+æ˜¾ç¤ºï¼š
 
-$$\begin{array}{c|lll}{¡ı}&{a}&{b}&{c}\\\hline{R_1}&{c}&{b}&{a}\\{R_2}&{b}&{c}&{c}\\\end{array}$$
+$$
+\begin{array}{c|lll}{â†“}&{a}&{b}&{c}\\\hline{R_1}&{c}&{b}&{a}\\{R_2}&{b}&{c}&{c}\\\end{array}
+$$
 
 
-## ·½³Ì×é
+## æ–¹ç¨‹ç»„
 ```
 $$\begin{cases}
 a_1x+b_1y+c_1z=d_1\\
@@ -346,10 +354,85 @@ a_3x+b_3y+c_3z=d_3\\
 $$
 ```
 
-ÏÔÊ¾£º
+æ˜¾ç¤ºï¼š
 
-$$\begin{cases}a_1x+b_1y+c_1z=d_1\\a_2x+b_2y+c_2z=d_2\\a_3x+b_3y+c_3z=d_3\\\end{cases}$$
+$$
+\begin{cases}a_1x+b_1y+c_1z=d_1\\a_2x+b_2y+c_2z=d_2\\a_3x+b_3y+c_3z=d_3\\\end{cases}
+$$
 
-## ÆäËû
 
-$\overbrace{(n-2)+\overbrace{(n-1)+n+(n+1)}+(n+2)}$
+## åˆ†æ®µå‡½æ•°
+
+å³ä¾§æ–‡æœ¬
+
+```
+$$
+f(n) =
+\begin{cases}
+n/2,  & \text{if $n$ is even} \\
+3n+1, & \text{if $n$ is odd}
+\end{cases}
+$$
+```
+
+æ˜¾ç¤ºï¼š
+
+$$
+f(n) =
+\begin{cases}
+n/2,  & \text{if $n$ is even} \\
+3n+1, & \text{if $n$ is odd}
+\end{cases}
+$$
+
+## é¢œè‰²
+
+$$
+\begin{array}{|rc|}
+\hline
+\verb+\color{black}{text}+ & \color{black}{text} \\
+\verb+\color{gray}{text}+ & \color{gray}{text} \\
+\verb+\color{silver}{text}+ & \color{silver}{text} \\
+\verb+\color{white}{text}+ & \color{white}{text} \\
+\hline
+\verb+\color{maroon}{text}+ & \color{maroon}{text} \\
+\verb+\color{red}{text}+ & \color{red}{text} \\
+\verb+\color{yellow}{text}+ & \color{yellow}{text} \\
+\verb+\color{lime}{text}+ & \color{lime}{text} \\
+\verb+\color{olive}{text}+ & \color{olive}{text} \\
+\verb+\color{green}{text}+ & \color{green}{text} \\
+\verb+\color{teal}{text}+ & \color{teal}{text} \\
+\verb+\color{aqua}{text}+ & \color{aqua}{text} \\
+\verb+\color{blue}{text}+ & \color{blue}{text} \\
+\verb+\color{navy}{text}+ & \color{navy}{text} \\
+\verb+\color{purple}{text}+ & \color{purple}{text} \\ 
+\verb+\color{fuchsia}{text}+ & \color{magenta}{text} \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{|rrrrrrrr|}
+\hline
+\verb+#000+ & \color{#000}{text} & \verb+#005+ & \color{#005}{text} & \verb+#00A+ & \color{#00A}{text} & \verb+#00F+ & \color{#00F}{text}  \\
+\verb+#500+ & \color{#500}{text} & \verb+#505+ & \color{#505}{text} & \verb+#50A+ & \color{#50A}{text} & \verb+#50F+ & \color{#50F}{text}  \\
+\verb+#A00+ & \color{#A00}{text} & \verb+#A05+ & \color{#A05}{text} & \verb+#A0A+ & \color{#A0A}{text} & \verb+#A0F+ & \color{#A0F}{text}  \\
+\verb+#F00+ & \color{#F00}{text} & \verb+#F05+ & \color{#F05}{text} & \verb+#F0A+ & \color{#F0A}{text} & \verb+#F0F+ & \color{#F0F}{text}  \\
+\hline
+\verb+#080+ & \color{#080}{text} & \verb+#085+ & \color{#085}{text} & \verb+#08A+ & \color{#08A}{text} & \verb+#08F+ & \color{#08F}{text}  \\
+\verb+#580+ & \color{#580}{text} & \verb+#585+ & \color{#585}{text} & \verb+#58A+ & \color{#58A}{text} & \verb+#58F+ & \color{#58F}{text}  \\
+\verb+#A80+ & \color{#A80}{text} & \verb+#A85+ & \color{#A85}{text} & \verb+#A8A+ & \color{#A8A}{text} & \verb+#A8F+ & \color{#A8F}{text}  \\
+\verb+#F80+ & \color{#F80}{text} & \verb+#F85+ & \color{#F85}{text} & \verb+#F8A+ & \color{#F8A}{text} & \verb+#F8F+ & \color{#F8F}{text}  \\
+\hline
+\verb+#0F0+ & \color{#0F0}{text} & \verb+#0F5+ & \color{#0F5}{text} & \verb+#0FA+ & \color{#0FA}{text} & \verb+#0FF+ & \color{#0FF}{text}  \\
+\verb+#5F0+ & \color{#5F0}{text} & \verb+#5F5+ & \color{#5F5}{text} & \verb+#5FA+ & \color{#5FA}{text} & \verb+#5FF+ & \color{#5FF}{text}  \\
+\verb+#AF0+ & \color{#AF0}{text} & \verb+#AF5+ & \color{#AF5}{text} & \verb+#AFA+ & \color{#AFA}{text} & \verb+#AFF+ & \color{#AFF}{text}  \\
+\verb+#FF0+ & \color{#FF0}{text} & \verb+#FF5+ & \color{#FF5}{text} & \verb+#FFA+ & \color{#FFA}{text} & \verb+#FFF+ & \color{#FFF}{text}  \\
+\hline
+\end{array}
+$$
+
+## å…¶ä»–
+
+![img](../static/hOOxd.png)
+
