@@ -5,6 +5,6 @@
   - [R markdown Cheatsheet](Notebooks/rmarkdown-cheatsheet-2.0.pdf)
 - Research
   - [101 Formulaic Alphas](Notebooks/101_Formulaic_Alphas.pdf)
-  - [Quality Investing[Robert Novy-Marx]](Notebooks/Quality_Investing[Robert Novy-Marx].pdf)
+  - [Quality Investing](Notebooks/Quality_Investing[Robert Novy-Marx].pdf)
 - Algorithms
 
