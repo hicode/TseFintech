@@ -368,13 +368,7 @@ $$
 
 显示：
 
-$$
-f(n) =
-\begin{cases}
-n/2,  & \text{if $n$ is even} \\
-3n+1, & \text{if $n$ is odd}
-\end{cases}
-$$
+![](http://latex.codecogs.com/gif.latex?$$f(n)%20=\\begin{cases}n/2,%20%20&%20\\text{if%20$n$%20is%20even}%20\\3n+1,%20&%20\\text{if%20$n$%20is%20odd}\end{cases}$$
 
 ## 颜色
 
